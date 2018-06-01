@@ -70,7 +70,7 @@ generated for the specific transaction - the addresses you send crypto to.
 Minimal data is collected on XEM transactions.
 
 ```typescript
-
+{
 	_id: ObjectID;
 	senderCacheAddress: string;
 	tokenType: TokenType;
